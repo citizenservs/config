@@ -8,3 +8,4 @@ tcp_connect_time_out 8000
 
 [ProxyList]
 socks5 183.62.173.186 10808
+socks5 120.196.228.73 1081
