@@ -7,6 +7,5 @@ tcp_read_time_out 15000
 tcp_connect_time_out 8000
 
 [ProxyList]
-socks5 180.76.146.169 1080
-socks5 110.42.177.104 1081
+socks5 180.76.250.195 1080
 
